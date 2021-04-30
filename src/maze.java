@@ -49,8 +49,6 @@ public class maze {
 				}
 			}
 			
-			
-			
 			//right
 			if(isValid(y,x+1)) {
 				if(maze[y][x+1]==2) {
